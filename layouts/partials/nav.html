@@ -1,0 +1,9 @@
+<nav>
+    <ul class="menu">
+      <div class="logo"><img src="/images/logo.png">{{ range .Site.Menus.main }}
+      <li><a href="{{.URL | relURL }}">{{.Name }}</a></li>
+      {{ end }}
+</div>
+    </ul>
+    <hr/>
+    </nav>

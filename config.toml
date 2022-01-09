@@ -1,0 +1,48 @@
+#baseURL = "https://scrum.florencemillar.co.uk"
+baseURL = ""
+languageCode = "en-us"
+title = "Flo's Food and Drink"
+enableRobotsTXT = "false"
+
+[permalinks]
+  blog = "/:filename/"
+  relativeURLs = "true"
+
+# See https://feathericons.com/
+# The value of pre is the icon name
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Recipes"
+    pre = "edit"
+    url = "/recipes/"
+    weight = 2
+  [[menu.main]]
+    name = "Wine"
+    pre = "edit"
+    url = "/wine/"
+    weight = 3
+   [[menu.main]]
+    name = "Tags"
+    pre = "tag"
+    url = "/tags/"
+	weight = 4
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  dateFormat = "Jan 02, 2006"
+#  homeText = "You just made a Hugo blog from scratch."
+	mainSections = ["blog"]
+
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.89.4"
