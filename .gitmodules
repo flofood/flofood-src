@@ -1,0 +1,4 @@
+[submodule "flofood.github.io"]
+	path = flofood.github.io
+	url = git@github.com-flofood:flofood/flofood.github.io.git
+	branch = master
