@@ -1,5 +1,5 @@
 #baseURL = "https://scrum.florencemillar.co.uk"
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 title = "Flo's Food and Drink"
 enableRobotsTXT = "false"
@@ -45,4 +45,4 @@ enableRobotsTXT = "false"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.89.4"
+  HUGO_VERSION = "0.91.2"
