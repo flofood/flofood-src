@@ -4,7 +4,7 @@
   <body>
     {{ partial "nav.html" . }}
        {{ block "main" . }}{{ end }}
-       Hi Flo does her stuff here 00th<i data-feather="calendar"></i>
+       Hi Flo does her stuff here !<i data-feather="calendar"></i>
 {{ define "main" }}
   <p >{{ .Site.Params.homeText | markdownify }}</p>
 {{ partial "front-page.html" . }}
