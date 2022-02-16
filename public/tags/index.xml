@@ -6,22 +6,31 @@
     <description>Recent content in Tags on Flo&#39;s Food and Drink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Nov 2021 19:16:33 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Feb 2022 10:41:56 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cheese</title>
+      <link>/tags/cheese/</link>
+      <pubDate>Wed, 16 Feb 2022 10:41:56 +0100</pubDate>
+      
+      <guid>/tags/cheese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tomato</title>
+      <link>/tags/tomato/</link>
+      <pubDate>Wed, 16 Feb 2022 10:41:56 +0100</pubDate>
+      
+      <guid>/tags/tomato/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cake</title>
       <link>/tags/cake/</link>
       <pubDate>Mon, 29 Nov 2021 19:16:33 +0100</pubDate>
       
       <guid>/tags/cake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cheese</title>
-      <link>/tags/cheese/</link>
-      <pubDate>Mon, 29 Nov 2021 19:16:33 +0100</pubDate>
-      
-      <guid>/tags/cheese/</guid>
       <description></description>
     </item>
     
@@ -202,15 +211,6 @@
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/quiche/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tomato</title>
-      <link>/tags/tomato/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tomato/</guid>
       <description></description>
     </item>
     
