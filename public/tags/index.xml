@@ -6,13 +6,22 @@
     <description>Recent content in Tags on Flo&#39;s Food and Drink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2022 18:47:05 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Mar 2023 17:17:59 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>change me</title>
-      <link>/tags/change-me/</link>
+      <title>bread</title>
+      <link>/tags/bread/</link>
+      <pubDate>Fri, 31 Mar 2023 17:17:59 +0200</pubDate>
+      
+      <guid>/tags/bread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beef</title>
+      <link>/tags/beef/</link>
       <pubDate>Sun, 06 Nov 2022 18:47:05 +0100</pubDate>
       
-      <guid>/tags/change-me/</guid>
+      <guid>/tags/beef/</guid>
       <description></description>
     </item>
     
@@ -364,6 +373,15 @@
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/bbq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>change me</title>
+      <link>/tags/change-me/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/change-me/</guid>
       <description></description>
     </item>
     
@@ -733,15 +751,6 @@
       <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>/tags/baking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>beef</title>
-      <link>/tags/beef/</link>
-      <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/beef/</guid>
       <description></description>
     </item>
     

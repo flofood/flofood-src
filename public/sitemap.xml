@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/bread/</loc>
+    <lastmod>2023-03-31T17:17:59+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-03-31T17:17:59+02:00</lastmod>
+  </url><url>
+    <loc>/recipes/2023-03-31-focaccia-bread/</loc>
+    <lastmod>2023-03-31T17:17:59+02:00</lastmod>
+  </url><url>
+    <loc>/recipes/</loc>
+    <lastmod>2023-03-31T17:17:59+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-03-31T17:17:59+02:00</lastmod>
+  </url><url>
     <loc>/recipes/2022-11-06-argentine-beef-empanadas/</loc>
     <lastmod>2022-11-06T18:47:05+01:00</lastmod>
   </url><url>
-    <loc>/tags/change-me/</loc>
-    <lastmod>2022-11-06T18:47:05+01:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-11-06T18:47:05+01:00</lastmod>
-  </url><url>
-    <loc>/recipes/</loc>
-    <lastmod>2022-11-06T18:47:05+01:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>/tags/beef/</loc>
     <lastmod>2022-11-06T18:47:05+01:00</lastmod>
   </url><url>
     <loc>/tags/cheese/</loc>
@@ -252,6 +258,9 @@
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/recipes/2018-02-13-bbq-sauce-patricks-recipe-flix/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/change-me/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/recipes/2018-02-13-frenc-onion-soup/</loc>
@@ -519,9 +528,6 @@
     <lastmod>2012-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/baking/</loc>
-    <lastmod>2012-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/beef/</loc>
     <lastmod>2012-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/recipes/2015-07-12-chicken-malay-rice/</loc>
