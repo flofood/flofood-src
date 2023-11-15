@@ -6,12 +6,12 @@
     <description>Recent content in tuna on Flo&#39;s Food and Drink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tuna/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jul 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/tuna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FD Seared Tuna</title>
       <link>/recipes/2013-10-19-fd-seared-tuna/</link>
       <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
-      
       <guid>/recipes/2013-10-19-fd-seared-tuna/</guid>
       <description>326 calories
 168g tuna steak, seared in a hot griddle pan - no oil, use a squeeze of lemon if needed Serve with
@@ -19,6 +19,5 @@
 Grill on a medium-high heat for 5 minutes each side.
 Dress with a sqeeze of lemon.</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,12 +6,12 @@
     <description>Recent content in vegetable on Flo&#39;s Food and Drink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/vegetable/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jul 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/vegetable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FD Roasted vegetable salad</title>
       <link>/recipes/2013-10-19-fd-roasted-vegetable-salad/</link>
       <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
-      
       <guid>/recipes/2013-10-19-fd-roasted-vegetable-salad/</guid>
       <description>188 calories
 Mix together
@@ -19,6 +19,5 @@ Mix together
 Roast in a hot oven [gas mark 7] for 20-25 minutes.
 Serve with 2 tablespoons parmesan [20g].</description>
     </item>
-    
   </channel>
 </rss>

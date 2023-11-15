@@ -6,12 +6,12 @@
     <description>Recent content in viognier on Flo&#39;s Food and Drink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="/tags/viognier/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/viognier/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quirky Bird</title>
       <link>/wine/2016-11-19-quirky-bird/</link>
       <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>/wine/2016-11-19-quirky-bird/</guid>
       <description>Price: N/A
 Date Purchased: N/A
@@ -19,6 +19,5 @@ Supplier: Tesco
 Region: South Africa
 :</description>
     </item>
-    
   </channel>
 </rss>
