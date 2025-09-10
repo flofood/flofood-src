@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pudding on Flo&#39;s Food and Drink</title>
-    <link>/tags/pudding/</link>
+    <link>http://192.168.0.14:33581/tags/pudding/</link>
     <description>Recent content in Pudding on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/pudding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/pudding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baked Rice Pudding</title>
-      <link>/recipes/2020-12-04-baked-rice-pudding/</link>
+      <link>http://192.168.0.14:33581/recipes/2020-12-04-baked-rice-pudding/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/recipes/2020-12-04-baked-rice-pudding/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2020-12-04-baked-rice-pudding/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250g pudding (short grain) rice&lt;/li&gt;&#xA;&lt;li&gt;1200ml milk&lt;/li&gt;&#xA;&lt;li&gt;70g caster sugar&lt;/li&gt;&#xA;&lt;li&gt;1 teaspoon vanilla extract&lt;/li&gt;&#xA;&lt;li&gt;Pinch of Cinammon&lt;/li&gt;&#xA;&lt;li&gt;4 tablespoons brown sugar&lt;/li&gt;&#xA;&lt;li&gt;Whipped cream to serve&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Method:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Preheat oven to 150 degrees C&#xA;Place the pudding rice in a ceramic dish&#xA;In a saucepan, place the milk, caster sugar and vanilla extract.  Bring to the boil.&#xA;Pour the boiling liquid over the rice and cover the ceramic dish with tin foil.&#xA;Place in the oven for 100 - 120 minutes.  Remove from the oven after 45 minutes and gently stir to ensure it doesn&amp;rsquo;t stick to the bottom of the dish.&#xA;Remove from the oven and set aside to cool for a while.&#xA;Once cooled enough to handle, sprinkle with brown sugar and using a kitchen blow torch caramelised until coloured.&#xA;Serve with some whipped cream.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sticky Pudding</title>
-      <link>/recipes/2020-10-31-sticky-pudding/</link>
+      <link>http://192.168.0.14:33581/recipes/2020-10-31-sticky-pudding/</link>
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/recipes/2020-10-31-sticky-pudding/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2020-10-31-sticky-pudding/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;For the pudding:&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;125g butter&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp golden syrup&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp black treacle&lt;/li&gt;&#xA;&lt;li&gt;2 large free range eggs&lt;/li&gt;&#xA;&lt;li&gt;1 tsp vanilla extract&lt;/li&gt;&#xA;&lt;li&gt;150g self-raising flour&lt;/li&gt;&#xA;&lt;li&gt;150g light muscovado sugar&lt;/li&gt;&#xA;&lt;li&gt;150g medjool dates, chopped&lt;/li&gt;&#xA;&lt;li&gt;2 tsp bicarbonate soda&lt;/li&gt;&#xA;&lt;li&gt;Tub of vanilla ice cream, to serve&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;**For the sauce: **&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;100g unsalted butter&lt;/li&gt;&#xA;&lt;li&gt;150g dark muscovado sugar&lt;/li&gt;&#xA;&lt;li&gt;3 tbsp golden syrup&lt;/li&gt;&#xA;&lt;li&gt;150ml double cream&lt;/li&gt;&#xA;&lt;li&gt;1 tsp vanilla extract&lt;/li&gt;&#xA;&lt;li&gt;Generous pinch sea salt&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Method&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

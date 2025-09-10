@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sauvignot on Flo&#39;s Food and Drink</title>
-    <link>/tags/sauvignot/</link>
+    <link>http://192.168.0.14:33581/tags/sauvignot/</link>
     <description>Recent content in Sauvignot on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Oct 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/sauvignot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/sauvignot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kintu</title>
-      <link>/wine/2015-04-13-kintu/</link>
+      <link>http://192.168.0.14:33581/wine/2015-04-13-kintu/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>/wine/2015-04-13-kintu/</guid>
-      <description>&lt;p&gt;Price: £6.99&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: Chile&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-04-13-kintu-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-04-13-kintu-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://192.168.0.14:33581/wine/2015-04-13-kintu/</guid>
+      <description>&lt;p&gt;Price: £6.99&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: Chile&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://192.168.0.14:33581/images/wine/2015-04-13-kintu-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;http://192.168.0.14:33581/images/wine/2015-04-13-kintu-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

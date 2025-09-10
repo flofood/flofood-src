@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pepper on Flo&#39;s Food and Drink</title>
-    <link>/tags/pepper/</link>
+    <link>http://192.168.0.14:33581/tags/pepper/</link>
     <description>Recent content in Pepper on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/pepper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/pepper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cacio e pepe</title>
-      <link>/recipes/2019-05-09-cacio-e-pepe/</link>
+      <link>http://192.168.0.14:33581/recipes/2019-05-09-cacio-e-pepe/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
-      <guid>/recipes/2019-05-09-cacio-e-pepe/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2019-05-09-cacio-e-pepe/</guid>
       <description>&lt;p&gt;Made with only four ingredients, and ready in just 20 minutes, this cacio e pepe (which literally translates as cheese and pepper), is a brilliant Italian supper that&amp;rsquo;s super simple to make and tastes absolutely divine. See method&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Serves 4&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;5 mins to prepare and 15 mins to cook&lt;/li&gt;&#xA;&lt;li&gt;546 calories / serving&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;400g bucatini or spaghetti    60g butter&lt;/li&gt;&#xA;&lt;li&gt;60g butter&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp freshly ground black pepper&lt;/li&gt;&#xA;&lt;li&gt;100g Parmesan, grated&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Method&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

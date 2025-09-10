@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cake on Flo&#39;s Food and Drink</title>
-    <link>/tags/cake/</link>
+    <link>http://192.168.0.14:33581/tags/cake/</link>
     <description>Recent content in Cake on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Nov 2021 19:16:33 +0100</lastBuildDate>
-    <atom:link href="/tags/cake/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/cake/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jackies Cheese Cake</title>
-      <link>/recipes/2021-11-29-jackies-cheese-cake/</link>
+      <link>http://192.168.0.14:33581/recipes/2021-11-29-jackies-cheese-cake/</link>
       <pubDate>Mon, 29 Nov 2021 19:16:33 +0100</pubDate>
-      <guid>/recipes/2021-11-29-jackies-cheese-cake/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2021-11-29-jackies-cheese-cake/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ingredients&amp;hellip;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250g digestive biscuits&lt;/li&gt;&#xA;&lt;li&gt;120g melted butter&lt;/li&gt;&#xA;&lt;li&gt;400g plain cream cheese&lt;/li&gt;&#xA;&lt;li&gt;50g icing sugar&lt;/li&gt;&#xA;&lt;li&gt;450g single (33%) cream&lt;/li&gt;&#xA;&lt;li&gt;300g white chocolate&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Method&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Blitz biscuits&#xA;Add the melted butter&#xA;Mix well&#xA;&amp;amp; Refrigerate for 30 minutes&lt;/p&gt;&#xA;&lt;p&gt;Whip up the cream cheese &amp;amp;&#xA;Add icing sugar&lt;/p&gt;&#xA;&lt;p&gt;Whip 300g of single cream&lt;/p&gt;&#xA;&lt;p&gt;Add whipped single cream to the cream cheese &amp;amp; icing sugar mixture and fold together&lt;/p&gt;&#xA;&lt;p&gt;Place the wet mixture on the cooled biscuit base&lt;/p&gt;</description>
     </item>
   </channel>

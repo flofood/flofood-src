@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gorgonzol on Flo&#39;s Food and Drink</title>
-    <link>/tags/gorgonzol/</link>
+    <link>http://192.168.0.14:33581/tags/gorgonzol/</link>
     <description>Recent content in Gorgonzol on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Nov 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/gorgonzol/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/gorgonzol/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Potato Wedges and Gorgonzola Sauce - Nigel Slater </title>
-      <link>/recipes/2012-01-01-potato-wedges-gorgonzola/</link>
+      <link>http://192.168.0.14:33581/recipes/2012-01-01-potato-wedges-gorgonzola/</link>
       <pubDate>Sun, 25 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>/recipes/2012-01-01-potato-wedges-gorgonzola/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2012-01-01-potato-wedges-gorgonzola/</guid>
       <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;INGREDIENTS&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 kg Floury Potatoes&lt;/li&gt;&#xA;&lt;li&gt;8 rashers of Smoked Streaky Bacon&lt;/li&gt;&#xA;&lt;li&gt;5 tbsp Groundnut or Rapeseed Oil&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp crushed Chilli Flakes&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp Smoked Paprika&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;for the Dressing&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250ml Double Cream&lt;/li&gt;&#xA;&lt;li&gt;150g Gorgonzola or Dolcelatte&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;(any blue cheese will work but milder &amp;amp; sweeter is better)&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;METHOD&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>

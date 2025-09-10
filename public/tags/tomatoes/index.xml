@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomatoes on Flo&#39;s Food and Drink</title>
-    <link>/tags/tomatoes/</link>
+    <link>http://192.168.0.14:33581/tags/tomatoes/</link>
     <description>Recent content in Tomatoes on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Dec 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/tomatoes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/tomatoes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sweet Pepper &amp; Cherry Tomatoes</title>
-      <link>/recipes/2012-01-01-sweet-pepper-cherry-tomato/</link>
+      <link>http://192.168.0.14:33581/recipes/2012-01-01-sweet-pepper-cherry-tomato/</link>
       <pubDate>Mon, 03 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>/recipes/2012-01-01-sweet-pepper-cherry-tomato/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2012-01-01-sweet-pepper-cherry-tomato/</guid>
       <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Ingredients&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 long sweet peppers&lt;/li&gt;&#xA;&lt;li&gt;8 cherry tomatoes&lt;/li&gt;&#xA;&lt;li&gt;1 clove of garlic, peeled&lt;/li&gt;&#xA;&lt;li&gt;4 tabllespoons of olive oil&lt;/li&gt;&#xA;&lt;li&gt;salt &amp;amp; pepper&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Preparation Method&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Martha Stewart&#39;s One Pot Tomato Pasta</title>
-      <link>/recipes/2016-04-19-martha-stewart-s-one-pot-tomato-pasta/</link>
+      <link>http://192.168.0.14:33581/recipes/2016-04-19-martha-stewart-s-one-pot-tomato-pasta/</link>
       <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>/recipes/2016-04-19-martha-stewart-s-one-pot-tomato-pasta/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2016-04-19-martha-stewart-s-one-pot-tomato-pasta/</guid>
       <description>&lt;p&gt;Serves 4 [2 in brackets]&lt;/p&gt;&#xA;&lt;h4 id=&#34;ingredients-&#34;&gt;Ingredients :&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;12 [6] ozs. Linguine (or any other dry pasta)&lt;/li&gt;&#xA;&lt;li&gt;12 [6] ozs. Cherry Tomatoes (halfed or quartered)&lt;/li&gt;&#xA;&lt;li&gt;1 thinly sliced [or chopped for Keith!] Onion&lt;/li&gt;&#xA;&lt;li&gt;4 cloves thinly sliced Garlic&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon red-pepper flakes&lt;/li&gt;&#xA;&lt;li&gt;2 sprigs Basil&lt;/li&gt;&#xA;&lt;li&gt;2 [1] tablespoon Olive Oil&lt;/li&gt;&#xA;&lt;li&gt;Salt &amp;amp; Pepper, to taste&lt;/li&gt;&#xA;&lt;li&gt;4 1/2 [2 1/4] cups of cold water (36 fluid ounces [18])&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Parmesan &amp;amp; Basil Leaves for serving&lt;/p&gt;</description>
     </item>
   </channel>

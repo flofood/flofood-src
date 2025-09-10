@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ginger on Flo&#39;s Food and Drink</title>
-    <link>/tags/ginger/</link>
+    <link>http://192.168.0.14:33581/tags/ginger/</link>
     <description>Recent content in Ginger on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/ginger/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/ginger/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parkin Ginger Cake</title>
-      <link>/recipes/2020-10-31-parkin-ginger-cake/</link>
+      <link>http://192.168.0.14:33581/recipes/2020-10-31-parkin-ginger-cake/</link>
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/recipes/2020-10-31-parkin-ginger-cake/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2020-10-31-parkin-ginger-cake/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;12oz golden syrup&lt;/li&gt;&#xA;&lt;li&gt;6oz butter or baking margarine&lt;/li&gt;&#xA;&lt;li&gt;8oz black treacle&lt;/li&gt;&#xA;&lt;li&gt;13oz oats&lt;/li&gt;&#xA;&lt;li&gt;3 eggs&lt;/li&gt;&#xA;&lt;li&gt;7oz self-raising flour&lt;/li&gt;&#xA;&lt;li&gt;9oz dark brown sugar&lt;/li&gt;&#xA;&lt;li&gt;3 tsp milk&lt;/li&gt;&#xA;&lt;li&gt;3 tsp ginger powder&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Method&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mix together the golden syrup, butter and black treacle.&lt;br&gt;&#xA;Pop them in the microwave for two minutes to loosen up.&lt;br&gt;&#xA;Pour the mixture into a large bowl of oats, and stir.&lt;br&gt;&#xA;Add the remaining ingredients (eggs, flour, sugar, milk and ginger powder) and mix well.&lt;br&gt;&#xA;Pour into a lined tin and bake on the top shelf at 160° for 45 minutes.&lt;br&gt;&#xA;Leave the sponge in the tin to cool, then wrap it in baking paper and foil (still in the tin).&lt;br&gt;&#xA;Store for five days before eating (if you can wait that long!). The cake becomes stickier and softer the longer you leave it.&lt;br&gt;&#xA;Cut into squares. Eat within two weeks.&lt;/p&gt;</description>
     </item>
   </channel>

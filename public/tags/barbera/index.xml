@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Barbera on Flo&#39;s Food and Drink</title>
-    <link>/tags/barbera/</link>
+    <link>http://192.168.0.14:33581/tags/barbera/</link>
     <description>Recent content in Barbera on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Oct 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/barbera/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/barbera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amonte Barbera</title>
-      <link>/wine/2014-12-19-amonte-barbera/</link>
+      <link>http://192.168.0.14:33581/wine/2014-12-19-amonte-barbera/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>/wine/2014-12-19-amonte-barbera/</guid>
+      <guid>http://192.168.0.14:33581/wine/2014-12-19-amonte-barbera/</guid>
       <description>&lt;p&gt;Price: £8.49&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: Piemonte Italy&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>

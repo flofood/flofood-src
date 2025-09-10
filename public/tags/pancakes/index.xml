@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pancakes on Flo&#39;s Food and Drink</title>
-    <link>/tags/pancakes/</link>
+    <link>http://192.168.0.14:33581/tags/pancakes/</link>
     <description>Recent content in Pancakes on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/pancakes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/pancakes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pancakes</title>
-      <link>/recipes/2021-02-16-pancakes/</link>
+      <link>http://192.168.0.14:33581/recipes/2021-02-16-pancakes/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/recipes/2021-02-16-pancakes/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2021-02-16-pancakes/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;100g plain flour&lt;/li&gt;&#xA;&lt;li&gt;2 eggs&lt;/li&gt;&#xA;&lt;li&gt;Pinch of salt&lt;/li&gt;&#xA;&lt;li&gt;300ml milk&lt;/li&gt;&#xA;&lt;li&gt;1 tsp of sunflower oil&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Method&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Whisk together until it is a batter&#xA;Leave for, at least, 30 minutes to rest&#xA;Then fry - butter pan&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;BBC Good Food (&amp;ldquo;Easy Pancakes&amp;rdquo;)&lt;/p&gt;</description>
     </item>
   </channel>

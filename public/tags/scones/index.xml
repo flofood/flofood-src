@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scones on Flo&#39;s Food and Drink</title>
-    <link>/tags/scones/</link>
+    <link>http://192.168.0.14:33581/tags/scones/</link>
     <description>Recent content in Scones on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jul 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/scones/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/scones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Date and Wheaten Scones</title>
-      <link>/recipes/2013-04-09-date-and-wheaten-scones/</link>
+      <link>http://192.168.0.14:33581/recipes/2013-04-09-date-and-wheaten-scones/</link>
       <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>/recipes/2013-04-09-date-and-wheaten-scones/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2013-04-09-date-and-wheaten-scones/</guid>
       <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Ingredients:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;10 oz (284g) wholemeal flour&lt;/li&gt;&#xA;&lt;li&gt;4 oz (113g) plain flour&lt;/li&gt;&#xA;&lt;li&gt;1 tsp salt&lt;/li&gt;&#xA;&lt;li&gt;3 tsp baking powder&lt;/li&gt;&#xA;&lt;li&gt;1 tsp baking soda&lt;/li&gt;&#xA;&lt;li&gt;4 oz (113g) butter&lt;/li&gt;&#xA;&lt;li&gt;2 oz (57g) granulated sugar&lt;/li&gt;&#xA;&lt;li&gt;1 egg beaten&lt;/li&gt;&#xA;&lt;li&gt;8 fl (237ml) buttermilk&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;all conversions are approximate&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Method:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Preheat oven to 220 C gas 7&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mix all dry ingredients into a bowl, then rub in butter with your fingers until it resembles a crumble. Then stir in the sugar.&lt;/p&gt;</description>
     </item>
   </channel>

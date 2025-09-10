@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Enegry Bar on Flo&#39;s Food and Drink</title>
-    <link>/tags/enegry-bar/</link>
+    <link>http://192.168.0.14:33581/tags/enegry-bar/</link>
     <description>Recent content in Enegry Bar on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jul 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/enegry-bar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/enegry-bar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home made Energy Bars</title>
-      <link>/recipes/2013-08-22-home-made-energy-bars/</link>
+      <link>http://192.168.0.14:33581/recipes/2013-08-22-home-made-energy-bars/</link>
       <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>/recipes/2013-08-22-home-made-energy-bars/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2013-08-22-home-made-energy-bars/</guid>
       <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Ingredients&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sunflower Oil – 120ml/3/4 cup&lt;/li&gt;&#xA;&lt;li&gt;Soft Dark Brown Sugar – 200g/1 cup&lt;/li&gt;&#xA;&lt;li&gt;Golden Syrup – 2 tbsp&lt;/li&gt;&#xA;&lt;li&gt;Peanut Butter – 1 tbsp&lt;/li&gt;&#xA;&lt;li&gt;Vanilla Extract – 1/2 tsp&lt;/li&gt;&#xA;&lt;li&gt;Sesame Seeds – 25g / 2 tbsp&lt;/li&gt;&#xA;&lt;li&gt;Sunflower Seeds – 25g / 2 tbsp&lt;/li&gt;&#xA;&lt;li&gt;Flaked Almonds – 50g / 1/2 cup&lt;/li&gt;&#xA;&lt;li&gt;Sultanas – 50g / 1/2 cup&lt;/li&gt;&#xA;&lt;li&gt;Chopped Dates – 50g / 1/2 cup&lt;/li&gt;&#xA;&lt;li&gt;Thick cut porridge oats/oatmeal – 225g / 8 oz&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Method&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>

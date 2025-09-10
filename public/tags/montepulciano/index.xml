@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Montepulciano on Flo&#39;s Food and Drink</title>
-    <link>/tags/montepulciano/</link>
+    <link>http://192.168.0.14:33581/tags/montepulciano/</link>
     <description>Recent content in Montepulciano on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/montepulciano/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/montepulciano/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Montepulciano d&#39;Abruzzo</title>
-      <link>/wine/2015-07-10-montepulciano-d-abruzzo/</link>
+      <link>http://192.168.0.14:33581/wine/2015-07-10-montepulciano-d-abruzzo/</link>
       <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/wine/2015-07-10-montepulciano-d-abruzzo/</guid>
-      <description>&lt;p&gt;Price: €5.49&lt;br&gt;&#xA;Date Purchased: 9th July 2015&#xA;Supplier: Aldi&lt;br&gt;&#xA;Region: Abruzzo&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-07-09-Montepulciano-d&#39;Abruzzo-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-07-09-Montepulciano-d&#39;Abruzzo-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://192.168.0.14:33581/wine/2015-07-10-montepulciano-d-abruzzo/</guid>
+      <description>&lt;p&gt;Price: €5.49&lt;br&gt;&#xA;Date Purchased: 9th July 2015&#xA;Supplier: Aldi&lt;br&gt;&#xA;Region: Abruzzo&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://192.168.0.14:33581/images/wine/2015-07-09-Montepulciano-d&#39;Abruzzo-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;http://192.168.0.14:33581/images/wine/2015-07-09-Montepulciano-d&#39;Abruzzo-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

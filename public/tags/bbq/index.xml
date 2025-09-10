@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bbq on Flo&#39;s Food and Drink</title>
-    <link>/tags/bbq/</link>
+    <link>http://192.168.0.14:33581/tags/bbq/</link>
     <description>Recent content in Bbq on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/bbq/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/bbq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BBQ Sauce Patricks Recipe Flix</title>
-      <link>/recipes/2018-02-13-bbq-sauce-patricks-recipe-flix/</link>
+      <link>http://192.168.0.14:33581/recipes/2018-02-13-bbq-sauce-patricks-recipe-flix/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/recipes/2018-02-13-bbq-sauce-patricks-recipe-flix/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2018-02-13-bbq-sauce-patricks-recipe-flix/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ketchup&lt;/li&gt;&#xA;&lt;li&gt;Honey / Brown Sugar - 15ml&lt;/li&gt;&#xA;&lt;li&gt;Dark Soy Sauce - 15ml&lt;/li&gt;&#xA;&lt;li&gt;Ground Ginger - 5ml&lt;/li&gt;&#xA;&lt;li&gt;Ground Black Pepper&lt;/li&gt;&#xA;&lt;li&gt;Finely chopped fat Garlic Clove&lt;/li&gt;&#xA;&lt;li&gt;L&amp;amp;P Worcestershire Sauce&lt;/li&gt;&#xA;&lt;li&gt;Lemon Juice - 5ml&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Method&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;make less &amp;amp; add items to taste&lt;/li&gt;&#xA;&lt;li&gt;such as Chilli Powder / Fresh Chilli&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

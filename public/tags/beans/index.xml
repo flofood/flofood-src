@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beans on Flo&#39;s Food and Drink</title>
-    <link>/tags/beans/</link>
+    <link>http://192.168.0.14:33581/tags/beans/</link>
     <description>Recent content in Beans on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/beans/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/beans/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bean Enchiladas</title>
-      <link>/recipes/2018-11-16-bean-enchiladas/</link>
+      <link>http://192.168.0.14:33581/recipes/2018-11-16-bean-enchiladas/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/recipes/2018-11-16-bean-enchiladas/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2018-11-16-bean-enchiladas/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2tbsp olive oil&lt;/li&gt;&#xA;&lt;li&gt;2 red onions, finely diced&lt;/li&gt;&#xA;&lt;li&gt;6 mixed peppers, seeded &amp;amp; diced&lt;/li&gt;&#xA;&lt;li&gt;6 garlic cloves, finely grated&lt;/li&gt;&#xA;&lt;li&gt;2 chillies, seeded &amp;amp; finely chopped&lt;/li&gt;&#xA;&lt;li&gt;1 litre tomato passata&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp caster sugar&lt;/li&gt;&#xA;&lt;li&gt;1 tsp ground coriander&lt;/li&gt;&#xA;&lt;li&gt;2 tsp ground ginger???&lt;/li&gt;&#xA;&lt;li&gt;Lime juice&lt;/li&gt;&#xA;&lt;li&gt;Coriander&lt;/li&gt;&#xA;&lt;li&gt;Black beans/kidney beans&lt;/li&gt;&#xA;&lt;li&gt;Spinach - frozen&lt;/li&gt;&#xA;&lt;li&gt;Wraps&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Method&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Passata below &amp;amp; above once wrapped &amp;amp; grated cheese (or substitute on top) and into oven&#xA;200°c/180°c fan/gas 6&#xA;20 minutes)&lt;/p&gt;</description>
     </item>
   </channel>

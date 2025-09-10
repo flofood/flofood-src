@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dahl on Flo&#39;s Food and Drink</title>
-    <link>/tags/dahl/</link>
+    <link>http://192.168.0.14:33581/tags/dahl/</link>
     <description>Recent content in Dahl on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jul 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/dahl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/dahl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FD Spiced Dahl</title>
-      <link>/recipes/2013-10-19-fd-spiced-dahl/</link>
+      <link>http://192.168.0.14:33581/recipes/2013-10-19-fd-spiced-dahl/</link>
       <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>/recipes/2013-10-19-fd-spiced-dahl/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2013-10-19-fd-spiced-dahl/</guid>
       <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;326 calories&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fry 60g chopped onion in&lt;/li&gt;&#xA;&lt;li&gt;1 teaspoon olive oil&lt;/li&gt;&#xA;&lt;li&gt;with a clove of crushed garlic and 1 teaspoon finely chopped fresh ginger.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Cook for 5 minutes&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Add half pint water, 50g dried, washed red lentils,&lt;/li&gt;&#xA;&lt;li&gt;a pinch of Cumin&lt;/li&gt;&#xA;&lt;li&gt;Coriander&lt;/li&gt;&#xA;&lt;li&gt;Turmeric&lt;/li&gt;&#xA;&lt;li&gt;Cayenne pepper&lt;/li&gt;&#xA;&lt;li&gt;Salt and pepper.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Boil for 20 minutes or until lentils are tender.&lt;/p&gt;</description>
     </item>
   </channel>

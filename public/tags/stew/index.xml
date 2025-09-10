@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stew on Flo&#39;s Food and Drink</title>
-    <link>/tags/stew/</link>
+    <link>http://192.168.0.14:33581/tags/stew/</link>
     <description>Recent content in Stew on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jul 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/stew/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/stew/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alice&#39;s Stew</title>
-      <link>/recipes/2015-10-27-alice-s-stew/</link>
+      <link>http://192.168.0.14:33581/recipes/2015-10-27-alice-s-stew/</link>
       <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>/recipes/2015-10-27-alice-s-stew/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2015-10-27-alice-s-stew/</guid>
       <description>&lt;p&gt;1.25 lbs Minced Beef&lt;br&gt;&#xA;1 Bay Leaf&lt;br&gt;&#xA;I chopped onion&lt;br&gt;&#xA;4 large potatoes, chopped into even pieces&lt;br&gt;&#xA;1 carrot chopped, into even pieces&lt;br&gt;&#xA;1 small tin chopped plum tomatoes&lt;br&gt;&#xA;1 x Oxo Beef Stock cube (in approx. 200ml hot water)&lt;/p&gt;&#xA;&lt;p&gt;lightly brown mince in a little oil, add remainder of ingredients,&#xA;simmer for 1 to 2 hours - until potatoes &amp;amp; carrot cooked.  Season.&lt;/p&gt;</description>
     </item>
   </channel>

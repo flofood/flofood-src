@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sauce on Flo&#39;s Food and Drink</title>
-    <link>/tags/sauce/</link>
+    <link>http://192.168.0.14:33581/tags/sauce/</link>
     <description>Recent content in Sauce on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/sauce/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/sauce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Salted Caramel Sauce</title>
-      <link>/recipes/2020-04-14-salted-caramel-sauce/</link>
+      <link>http://192.168.0.14:33581/recipes/2020-04-14-salted-caramel-sauce/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/recipes/2020-04-14-salted-caramel-sauce/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2020-04-14-salted-caramel-sauce/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 tbsps caster sugar&lt;/li&gt;&#xA;&lt;li&gt;3 tbsps double cream&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp butter&lt;/li&gt;&#xA;&lt;li&gt;Pinch of sea salt flakes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Method&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Put the sugar and 2 tbsps water in a small heavy bottomed saucepan. Place on a low heat and swirl gently until the sugar has melted. Turn up the heat and let the sugar bubble and caramelise to a nutty brown. Take off the heat and pour in the cream, butter and salt flakes - do this carefully, as it may split. Gently stir together until smooth &amp;amp; glossy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>White Cheese Sauce</title>
-      <link>/recipes/2019-04-15-white-cheese-sauce/</link>
+      <link>http://192.168.0.14:33581/recipes/2019-04-15-white-cheese-sauce/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/recipes/2019-04-15-white-cheese-sauce/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2019-04-15-white-cheese-sauce/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;250ml milk&lt;br&gt;&#xA;25 grams butter&lt;br&gt;&#xA;2 tablespoons flour&lt;br&gt;&#xA;(50g cheese)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Method&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Whisk fast as the butter melts and the mixture comes to the boil - the flour will disappear and the sauce will begin to thicken. Whisk for 2 minutes while the sauce bubbles and becomes nice &amp;amp; thick.&lt;/p&gt;&#xA;&lt;p&gt;(Add cheese to make it cheese sauce)&lt;/p&gt;</description>
     </item>
   </channel>

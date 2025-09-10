@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Duck on Flo&#39;s Food and Drink</title>
-    <link>/tags/duck/</link>
+    <link>http://192.168.0.14:33581/tags/duck/</link>
     <description>Recent content in Duck on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Nov 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/duck/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/duck/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> Duck with Duck-Fat Potatoes and Pickled Cabbage</title>
-      <link>/recipes/2017-11-22-duck-and-potatoes-with-red-cabbage/</link>
+      <link>http://192.168.0.14:33581/recipes/2017-11-22-duck-and-potatoes-with-red-cabbage/</link>
       <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/recipes/2017-11-22-duck-and-potatoes-with-red-cabbage/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2017-11-22-duck-and-potatoes-with-red-cabbage/</guid>
       <description>&lt;p&gt;The potatoes should be cut very finely here, so that they almost melt into the duck fat. A sharp accompaniment, such as sauerkraut or the pickled cabbage, below, is essential to balance the gloriously duck fat-rich potatoes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;INGREDIENTS&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Serves 4&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;baking potatoes 3, large&lt;/li&gt;&#xA;&lt;li&gt;duck fat 180g&lt;/li&gt;&#xA;&lt;li&gt;rosemary sprigs 4&lt;/li&gt;&#xA;&lt;li&gt;duck legs 4&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;For the pickled cabbage:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;red cabbage 400g&lt;/li&gt;&#xA;&lt;li&gt;white wine vinegar 125ml&lt;/li&gt;&#xA;&lt;li&gt;cider vinegar 100ml&lt;/li&gt;&#xA;&lt;li&gt;coriander seed 1 tsp&lt;/li&gt;&#xA;&lt;li&gt;soft brown sugar 4 tsp&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Set the oven at 175C/gas mark 3. Slice the potatoes as thinly as possible (using a mandolin cutter if you have one). Melt the duck fat in a small pan. Spread 2 tbsp of the duck fat over the base of a roasting tin, then place a layer of sliced potatoes over the surface, season generously with salt, pepper and some of the rosemary leaves, then repeat until all the potatoes are used.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Potatoes with Garlic and Comté</title>
-      <link>/recipes/2017-11-22-nigels-garlic-and-cheese-potatoes/</link>
+      <link>http://192.168.0.14:33581/recipes/2017-11-22-nigels-garlic-and-cheese-potatoes/</link>
       <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/recipes/2017-11-22-nigels-garlic-and-cheese-potatoes/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2017-11-22-nigels-garlic-and-cheese-potatoes/</guid>
       <description>&lt;p&gt;Should you not be able to get hold of Comté, a semi-firm cheese such as Fontina or Emmentaler will work just as well.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;INGREDIENTS&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Serves 6&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;smoked garlic 7 cloves&lt;/li&gt;&#xA;&lt;li&gt;double cream 500ml&lt;/li&gt;&#xA;&lt;li&gt;bay leaf 1&lt;/li&gt;&#xA;&lt;li&gt;cloves 2&lt;/li&gt;&#xA;&lt;li&gt;full-fat milk 200ml&lt;/li&gt;&#xA;&lt;li&gt;Comté 150g&lt;/li&gt;&#xA;&lt;li&gt;potatoes 4 medium, waxy fleshed (yellow)&lt;/li&gt;&#xA;&lt;li&gt;butter 30g&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Peel the smoked garlic and cut it into paper-thin slices then put it into a medium-sized saucepan with the cream, bayleaf, cloves and milk. Bring the cream and milk mixture to the boil, turn off the heat, cover with a lid and set aside to infuse. Set the oven at 160C/gas mark 2-3.&lt;/p&gt;</description>
     </item>
   </channel>

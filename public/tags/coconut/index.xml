@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coconut on Flo&#39;s Food and Drink</title>
-    <link>/tags/coconut/</link>
+    <link>http://192.168.0.14:33581/tags/coconut/</link>
     <description>Recent content in Coconut on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/coconut/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/coconut/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Date and Coconut Balls</title>
-      <link>/recipes/2018-03-01-date-and-coconut-balls/</link>
+      <link>http://192.168.0.14:33581/recipes/2018-03-01-date-and-coconut-balls/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/recipes/2018-03-01-date-and-coconut-balls/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2018-03-01-date-and-coconut-balls/</guid>
       <description>&lt;p&gt;One of my go-to recipes that I can make up in bulk and grab before I head out the door is this one for date and coconut balls. You can freeze them as well which is a bonus, but they will keep for a couple of weeks in an airtight container in the fridge. Depends how delicious you find them – ahem&amp;hellip;!!&lt;/p&gt;&#xA;&lt;p&gt; &lt;strong&gt;Ingredients:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;120g dates&lt;/li&gt;&#xA;&lt;li&gt;80g jumbo mixed raisins&lt;/li&gt;&#xA;&lt;li&gt;20g desiccated coconut, plus 2tbsps to coat&lt;/li&gt;&#xA;&lt;li&gt;20g porridge oats&lt;/li&gt;&#xA;&lt;li&gt;A tablespoon of coconut oil &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Method&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pasta on Flo&#39;s Food and Drink</title>
-    <link>/tags/pasta/</link>
+    <link>http://192.168.0.14:33581/tags/pasta/</link>
     <description>Recent content in Pasta on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jul 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linguine with Pesto and Potatoes</title>
-      <link>/recipes/2012-01-01-linguine-with-pesto-and-potatoes/</link>
+      <link>http://192.168.0.14:33581/recipes/2012-01-01-linguine-with-pesto-and-potatoes/</link>
       <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>/recipes/2012-01-01-linguine-with-pesto-and-potatoes/</guid>
+      <guid>http://192.168.0.14:33581/recipes/2012-01-01-linguine-with-pesto-and-potatoes/</guid>
       <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Ingredients&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 maris piper or tohter large potatoes, cut into small cubes&lt;/li&gt;&#xA;&lt;li&gt;60ml/4tbsp olive oil&lt;/li&gt;&#xA;&lt;li&gt;2 cloves garlic, finely chopped&lt;/li&gt;&#xA;&lt;li&gt;1 packet of dried linguine&lt;/li&gt;&#xA;&lt;li&gt;salt and pepper&lt;/li&gt;&#xA;&lt;li&gt;150 ml/5¼fl oz vegetable stock&lt;/li&gt;&#xA;&lt;li&gt;15ml/1tbsp mascarpone cheese&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;For the pesto:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 bunches of watercress, roughly chopped&lt;/li&gt;&#xA;&lt;li&gt;180g/6¼oz almonds, crushed&lt;/li&gt;&#xA;&lt;li&gt;180g/6¼oz parmesan, grated&lt;/li&gt;&#xA;&lt;li&gt;juice of one lemon&lt;/li&gt;&#xA;&lt;li&gt;175ml/6¼fl oz olive oil&lt;/li&gt;&#xA;&lt;li&gt;salt and pepper&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Method&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>

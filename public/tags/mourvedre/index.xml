@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mourvedre on Flo&#39;s Food and Drink</title>
-    <link>/tags/mourvedre/</link>
+    <link>http://192.168.0.14:33581/tags/mourvedre/</link>
     <description>Recent content in Mourvedre on Flo&#39;s Food and Drink</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/mourvedre/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.0.14:33581/tags/mourvedre/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quirky Bird</title>
-      <link>/wine/2016-11-19-quirky-bird/</link>
+      <link>http://192.168.0.14:33581/wine/2016-11-19-quirky-bird/</link>
       <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/wine/2016-11-19-quirky-bird/</guid>
-      <description>&lt;p&gt;Price: N/A&lt;br&gt;&#xA;Date Purchased: N/A&lt;br&gt;&#xA;Supplier: Tesco&lt;br&gt;&#xA;Region: South Africa&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2016-11-19-quirky-bird-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2016-11-19-quirky-bird-2.jpg&#34; alt=&#34;&#34;&gt;:&lt;/p&gt;</description>
+      <guid>http://192.168.0.14:33581/wine/2016-11-19-quirky-bird/</guid>
+      <description>&lt;p&gt;Price: N/A&lt;br&gt;&#xA;Date Purchased: N/A&lt;br&gt;&#xA;Supplier: Tesco&lt;br&gt;&#xA;Region: South Africa&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://192.168.0.14:33581/images/wine/2016-11-19-quirky-bird-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;http://192.168.0.14:33581/images/wine/2016-11-19-quirky-bird-2.jpg&#34; alt=&#34;&#34;&gt;:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
