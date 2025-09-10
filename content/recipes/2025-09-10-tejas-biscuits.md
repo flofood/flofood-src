@@ -1,5 +1,5 @@
 ---
-title: "2025 09 10 Tejas Biscuits"
+title: "Tejas Biscuits"
 date: 2025-09-10T10:52:45+02:00
 layout: post
 category: recipes
