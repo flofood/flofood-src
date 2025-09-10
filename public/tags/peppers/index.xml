@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>peppers on Flo&#39;s Food and Drink</title>
+    <title>Peppers on Flo&#39;s Food and Drink</title>
     <link>/tags/peppers/</link>
-    <description>Recent content in peppers on Flo&#39;s Food and Drink</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Peppers on Flo&#39;s Food and Drink</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Dec 2012 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/peppers/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>/recipes/2012-01-01-sweet-pepper-cherry-tomato/</link>
       <pubDate>Mon, 03 Dec 2012 00:00:00 +0000</pubDate>
       <guid>/recipes/2012-01-01-sweet-pepper-cherry-tomato/</guid>
-      <description>Ingredients
-2 long sweet peppers 8 cherry tomatoes 1 clove of garlic, peeled 4 tabllespoons of olive oil salt &amp;amp; pepper Preparation Method</description>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Ingredients&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 long sweet peppers&lt;/li&gt;&#xA;&lt;li&gt;8 cherry tomatoes&lt;/li&gt;&#xA;&lt;li&gt;1 clove of garlic, peeled&lt;/li&gt;&#xA;&lt;li&gt;4 tabllespoons of olive oil&lt;/li&gt;&#xA;&lt;li&gt;salt &amp;amp; pepper&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Preparation Method&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>potato on Flo&#39;s Food and Drink</title>
+    <title>Potato on Flo&#39;s Food and Drink</title>
     <link>/tags/potato/</link>
-    <description>Recent content in potato on Flo&#39;s Food and Drink</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Potato on Flo&#39;s Food and Drink</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Nov 2012 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/potato/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,7 @@
       <link>/recipes/2012-01-01-potato-wedges-gorgonzola/</link>
       <pubDate>Sun, 25 Nov 2012 00:00:00 +0000</pubDate>
       <guid>/recipes/2012-01-01-potato-wedges-gorgonzola/</guid>
-      <description>INGREDIENTS
-1 kg Floury Potatoes 8 rashers of Smoked Streaky Bacon 5 tbsp Groundnut or Rapeseed Oil 1 tbsp crushed Chilli Flakes 1 tbsp Smoked Paprika for the Dressing
-250ml Double Cream 150g Gorgonzola or Dolcelatte (any blue cheese will work but milder &amp;amp; sweeter is better)
-METHOD</description>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;INGREDIENTS&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 kg Floury Potatoes&lt;/li&gt;&#xA;&lt;li&gt;8 rashers of Smoked Streaky Bacon&lt;/li&gt;&#xA;&lt;li&gt;5 tbsp Groundnut or Rapeseed Oil&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp crushed Chilli Flakes&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp Smoked Paprika&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;for the Dressing&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250ml Double Cream&lt;/li&gt;&#xA;&lt;li&gt;150g Gorgonzola or Dolcelatte&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;(any blue cheese will work but milder &amp;amp; sweeter is better)&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;METHOD&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pasta on Flo&#39;s Food and Drink</title>
+    <title>Pasta on Flo&#39;s Food and Drink</title>
     <link>/tags/pasta/</link>
-    <description>Recent content in pasta on Flo&#39;s Food and Drink</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Pasta on Flo&#39;s Food and Drink</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jul 2012 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,7 @@
       <link>/recipes/2012-01-01-linguine-with-pesto-and-potatoes/</link>
       <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
       <guid>/recipes/2012-01-01-linguine-with-pesto-and-potatoes/</guid>
-      <description>Ingredients
-2 maris piper or tohter large potatoes, cut into small cubes 60ml/4tbsp olive oil 2 cloves garlic, finely chopped 1 packet of dried linguine salt and pepper 150 ml/5¼fl oz vegetable stock 15ml/1tbsp mascarpone cheese For the pesto:
-2 bunches of watercress, roughly chopped 180g/6¼oz almonds, crushed 180g/6¼oz parmesan, grated juice of one lemon 175ml/6¼fl oz olive oil salt and pepper Method
-First prepare the pesto. Tip the watercress, almonds, parmesan and lemon juice into a food processor and blitz, gradually pouring in the oil.</description>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Ingredients&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 maris piper or tohter large potatoes, cut into small cubes&lt;/li&gt;&#xA;&lt;li&gt;60ml/4tbsp olive oil&lt;/li&gt;&#xA;&lt;li&gt;2 cloves garlic, finely chopped&lt;/li&gt;&#xA;&lt;li&gt;1 packet of dried linguine&lt;/li&gt;&#xA;&lt;li&gt;salt and pepper&lt;/li&gt;&#xA;&lt;li&gt;150 ml/5¼fl oz vegetable stock&lt;/li&gt;&#xA;&lt;li&gt;15ml/1tbsp mascarpone cheese&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;For the pesto:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 bunches of watercress, roughly chopped&lt;/li&gt;&#xA;&lt;li&gt;180g/6¼oz almonds, crushed&lt;/li&gt;&#xA;&lt;li&gt;180g/6¼oz parmesan, grated&lt;/li&gt;&#xA;&lt;li&gt;juice of one lemon&lt;/li&gt;&#xA;&lt;li&gt;175ml/6¼fl oz olive oil&lt;/li&gt;&#xA;&lt;li&gt;salt and pepper&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Method&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

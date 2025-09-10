@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vegetable on Flo&#39;s Food and Drink</title>
+    <title>Vegetable on Flo&#39;s Food and Drink</title>
     <link>/tags/vegetable/</link>
-    <description>Recent content in vegetable on Flo&#39;s Food and Drink</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Vegetable on Flo&#39;s Food and Drink</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jul 2012 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/vegetable/index.xml" rel="self" type="application/rss+xml" />
@@ -13,11 +13,7 @@
       <link>/recipes/2013-10-19-fd-roasted-vegetable-salad/</link>
       <pubDate>Sun, 22 Jul 2012 00:00:00 +0000</pubDate>
       <guid>/recipes/2013-10-19-fd-roasted-vegetable-salad/</guid>
-      <description>188 calories
-Mix together
-150g cherry tomatoes 50g sliced courgette 75g sliced aubergine [or twice the amount of courgette] 160g sliced red pepper Scatter with basil leaves and drizzle with balsamic vinegar.
-Roast in a hot oven [gas mark 7] for 20-25 minutes.
-Serve with 2 tablespoons parmesan [20g].</description>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;188 calories&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Mix together&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;150g cherry tomatoes&lt;/li&gt;&#xA;&lt;li&gt;50g sliced courgette&lt;/li&gt;&#xA;&lt;li&gt;75g sliced aubergine [or twice the amount of courgette]&lt;/li&gt;&#xA;&lt;li&gt;160g sliced red pepper&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Scatter with basil leaves and drizzle with balsamic vinegar.&lt;/p&gt;&#xA;&lt;p&gt;Roast in a hot oven [gas mark 7] for 20-25 minutes.&lt;/p&gt;&#xA;&lt;p&gt;Serve with 2 tablespoons parmesan [20g].&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

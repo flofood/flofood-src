@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>malbec on Flo&#39;s Food and Drink</title>
+    <title>Malbec on Flo&#39;s Food and Drink</title>
     <link>/tags/malbec/</link>
-    <description>Recent content in malbec on Flo&#39;s Food and Drink</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Malbec on Flo&#39;s Food and Drink</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Oct 2014 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/malbec/index.xml" rel="self" type="application/rss+xml" />
@@ -13,20 +13,14 @@
       <link>/wine/2015-03-31-caracter/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-03-31-caracter/</guid>
-      <description>Price: £7.99
-Date Purchased: 28th October 2014
-Supplier: Direct Wine Shipments
-Region: Argentina Mendoza</description>
+      <description>&lt;p&gt;Price: £7.99&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: Argentina Mendoza&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/caracter-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/caracter-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Santa Ana</title>
       <link>/wine/2015-05-25-santa-ana/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-05-25-santa-ana/</guid>
-      <description>Price: £ 8.99
-Date Purchased: 28th October 2014
-Supplier: Direct Wine Shipments
-Region: Argentina</description>
+      <description>&lt;p&gt;Price: £ 8.99&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: Argentina&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-05-25-santa-ana-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-05-25-santa-ana-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

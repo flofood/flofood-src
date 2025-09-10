@@ -4,7 +4,7 @@
     <title>Wines on Flo&#39;s Food and Drink</title>
     <link>/wine/</link>
     <description>Recent content in Wines on Flo&#39;s Food and Drink</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/wine/index.xml" rel="self" type="application/rss+xml" />
@@ -13,231 +13,161 @@
       <link>/wine/2016-11-19-quirky-bird/</link>
       <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
       <guid>/wine/2016-11-19-quirky-bird/</guid>
-      <description>Price: N/A
-Date Purchased: N/A
-Supplier: Tesco
-Region: South Africa
-:</description>
+      <description>&lt;p&gt;Price: N/A&lt;br&gt;&#xA;Date Purchased: N/A&lt;br&gt;&#xA;Supplier: Tesco&lt;br&gt;&#xA;Region: South Africa&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2016-11-19-quirky-bird-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2016-11-19-quirky-bird-2.jpg&#34; alt=&#34;&#34;&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rosso Puglia</title>
       <link>/wine/2015-08-14-rosso-puglia/</link>
       <pubDate>Fri, 14 Aug 2015 00:00:00 +0000</pubDate>
       <guid>/wine/2015-08-14-rosso-puglia/</guid>
-      <description>Price: £7.00
-Date Purchased: 14th August 2015
-Supplier: Marks and Spencer
-Region: Puglia</description>
+      <description>&lt;p&gt;Price: £7.00&lt;br&gt;&#xA;Date Purchased: 14th August 2015&lt;br&gt;&#xA;Supplier: Marks and Spencer&lt;br&gt;&#xA;Region: Puglia&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-08-14-rosso-puglia-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-08-14-rosso-puglia-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finca Los Altos</title>
       <link>/wine/2015-07-12-finca-los-altos/</link>
       <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
       <guid>/wine/2015-07-12-finca-los-altos/</guid>
-      <description>Price: €9 (reduced from €18)
-Date Purchased: 11th July 2015
-Supplier: SuperValu, Murphy&amp;rsquo;s, Rosslare Harbour
-Region: Spain</description>
+      <description>&lt;p&gt;Price: €9 (reduced from €18)&lt;br&gt;&#xA;Date Purchased: 11th July 2015&lt;br&gt;&#xA;Supplier: SuperValu, Murphy&amp;rsquo;s, Rosslare Harbour&lt;br&gt;&#xA;Region: Spain&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-07-12-finca-los-altos-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-07-12-finca-los-altos-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Montepulciano d&#39;Abruzzo</title>
       <link>/wine/2015-07-10-montepulciano-d-abruzzo/</link>
       <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
       <guid>/wine/2015-07-10-montepulciano-d-abruzzo/</guid>
-      <description>Price: €5.49
-Date Purchased: 9th July 2015 Supplier: Aldi
-Region: Abruzzo</description>
+      <description>&lt;p&gt;Price: €5.49&lt;br&gt;&#xA;Date Purchased: 9th July 2015&#xA;Supplier: Aldi&lt;br&gt;&#xA;Region: Abruzzo&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-07-09-Montepulciano-d&#39;Abruzzo-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-07-09-Montepulciano-d&#39;Abruzzo-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jacob&#39;s Creek</title>
       <link>/wine/2015-06-08-jacob-s-creek/</link>
       <pubDate>Mon, 08 Jun 2015 00:00:00 +0000</pubDate>
       <guid>/wine/2015-06-08-jacob-s-creek/</guid>
-      <description>Price: €8.99
-Date Purchased: 8th June 2015
-Supplier: SuperValu - Murphy&amp;rsquo;s, Rosslare Harbour
-Region: South Eastern Australia</description>
+      <description>&lt;p&gt;Price: €8.99&lt;br&gt;&#xA;Date Purchased: 8th June 2015&lt;br&gt;&#xA;Supplier: SuperValu - Murphy&amp;rsquo;s, Rosslare Harbour&lt;br&gt;&#xA;Region: South Eastern Australia&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-06-08-jacob-s-creek-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-06-08-jacob-s-creek-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yellow Tail</title>
       <link>/wine/2015-02-14-yellow-tail/</link>
       <pubDate>Sat, 14 Feb 2015 00:00:00 +0000</pubDate>
       <guid>/wine/2015-02-14-yellow-tail/</guid>
-      <description>Price: £7.75
-Date Purchased: 14th February 2015
-Supplier: Gift
-Region: South Eastern Australia</description>
+      <description>&lt;p&gt;Price: £7.75&lt;br&gt;&#xA;Date Purchased: 14th February 2015&lt;br&gt;&#xA;Supplier: Gift&lt;br&gt;&#xA;Region: South Eastern Australia&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-02-14-yellow-tail-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-02-14-yellow-tail-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Turner Road</title>
       <link>/wine/2015-01-19-turner-road/</link>
       <pubDate>Mon, 29 Dec 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-01-19-turner-road/</guid>
-      <description>Price: Gift from McCoshs
-Date: 29th December 2014
-Supplier:</description>
+      <description>&lt;p&gt;Price: Gift from McCoshs&lt;br&gt;&#xA;Date: 29th December 2014&lt;br&gt;&#xA;Supplier:&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Albali</title>
       <link>/wine/2015-01-19-albali/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-01-19-albali/</guid>
-      <description>Price:
-Date Purchased:
-Supplier:</description>
+      <description>&lt;p&gt;Price:&lt;br&gt;&#xA;Date Purchased:&lt;br&gt;&#xA;Supplier:&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Amonte Barbera</title>
       <link>/wine/2014-12-19-amonte-barbera/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2014-12-19-amonte-barbera/</guid>
-      <description>Price: £8.49
-Date Purchased: 28th October 2014
-Supplier: Direct Wine Shipments
-Region: Piemonte Italy</description>
+      <description>&lt;p&gt;Price: £8.49&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: Piemonte Italy&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Ballybosch</title>
       <link>/wine/2014-11-20-ballybosch/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2014-11-20-ballybosch/</guid>
-      <description>Ballybosch Red Blend £9.99
-28th October 2014
-Direct Wine Shipments
-New range from Local and International Rugby stars, Ruan Pienaar and Robbie Diack! Taking its name from ‘Bally’ meaning townland and ‘Bosch’ from Stellenbosch in South Africa</description>
+      <description>&lt;p&gt;Ballybosch Red Blend £9.99&lt;br&gt;&#xA;28th October 2014&lt;br&gt;&#xA;Direct Wine Shipments&lt;/p&gt;&#xA;&lt;p&gt;New range from Local and International Rugby stars, Ruan Pienaar and Robbie Diack! Taking its name from ‘Bally’ meaning townland and ‘Bosch’ from Stellenbosch in South Africa&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Brookford</title>
       <link>/wine/2015-04-26-brookford/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-04-26-brookford/</guid>
-      <description>Price: £7.49
-Date Purchased: 28th October 2014
-Supplier: Direct Wine Shipments
-Region: Australia 2013</description>
+      <description>&lt;p&gt;Price: £7.49&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: Australia 2013&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-04-26-brookford-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-04-26-brookford-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Caleo</title>
       <link>/wine/2015-01-25-caleo/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-01-25-caleo/</guid>
-      <description>Price: £7.99
-Date Purchased: 28th October 2014
-Supplier: Direct Wine Shipments
-Region:</description>
+      <description>&lt;p&gt;Price: £7.99&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/caleo-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/caleo-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Caracter</title>
       <link>/wine/2015-03-31-caracter/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-03-31-caracter/</guid>
-      <description>Price: £7.99
-Date Purchased: 28th October 2014
-Supplier: Direct Wine Shipments
-Region: Argentina Mendoza</description>
+      <description>&lt;p&gt;Price: £7.99&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: Argentina Mendoza&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/caracter-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/caracter-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Corinto</title>
       <link>/wine/2015-01-10-corinto/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-01-10-corinto/</guid>
-      <description>Price: £6.99
-Date Purchased: 28th October 2014
-Supplier: Direct Wine Shipments
-Region: Central Valley Chile
-We liked this Lots
-Description
-Deep brick red in colour with aromas of ripe strawberries and blackberries combined with dried fruit such as prunes, figs, and cherries. Soft attack on the palate that leads to a light well-balanced finish.</description>
+      <description>&lt;p&gt;Price: £6.99&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier:  Direct Wine Shipments&lt;br&gt;&#xA;Region: Central Valley Chile&lt;/p&gt;&#xA;&lt;p&gt;We liked this Lots&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Description&lt;/p&gt;&#xA;&lt;p&gt;Deep brick red in colour with aromas of ripe strawberries and blackberries combined with dried fruit such as prunes, figs, and cherries. Soft attack on the palate that leads to a light well-balanced finish.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Hardys Legacy</title>
       <link>/wine/2015-11-02-hardys-legacy/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-11-02-hardys-legacy/</guid>
-      <description>Price: £
-Date Purchased:
-Supplier:
-Region: South Eastern Australia</description>
+      <description>&lt;p&gt;Price: £&lt;br&gt;&#xA;Date Purchased:&lt;br&gt;&#xA;Supplier:&lt;br&gt;&#xA;Region: South Eastern Australia&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-01-11-hardys-legacy-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-01-11-hardys-legacy-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kintu</title>
       <link>/wine/2015-04-13-kintu/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-04-13-kintu/</guid>
-      <description>Price: £6.99
-Date Purchased: 28th October 2014
-Supplier: Direct Wine Shipments
-Region: Chile</description>
+      <description>&lt;p&gt;Price: £6.99&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: Chile&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-04-13-kintu-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-04-13-kintu-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lindeman&#39;s Bin 50</title>
       <link>/wine/2015-05-06-lindeman-s-bin-50/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-05-06-lindeman-s-bin-50/</guid>
-      <description>Price: £
-Date Purchased: 2014
-Supplier:
-Region: South Western Australia</description>
+      <description>&lt;p&gt;Price: £&lt;br&gt;&#xA;Date Purchased: 2014&lt;br&gt;&#xA;Supplier:&lt;br&gt;&#xA;Region: South Western Australia&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-05-06-lindeman-s-bin-50-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-05-06-lindeman-s-bin-50-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Moulin Montarels Pinot Noir</title>
       <link>/wine/2015-11-28-moulin-montarels-pinot-noir/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-11-28-moulin-montarels-pinot-noir/</guid>
-      <description>Price: £8.99
-Date Purchased: 28 October 2014
-Supplier: Direct Wine Shipments
-Region: Sud de France</description>
+      <description>&lt;p&gt;Price: £8.99&lt;br&gt;&#xA;Date Purchased: 28 October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: Sud de France&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-11-28-Moulin-Montarels-Pinot-Noir-1.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;/images/wine/2015-11-28-Moulin-Montarels-Pinot-Noir-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mullygrubber</title>
       <link>/wine/2015-02-21-mullygrubber/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-02-21-mullygrubber/</guid>
-      <description>Price: £8.69
-Date Purchased: 28th October 2014
-Supplier: Direct Wine Shipments
-Region: South Eastern Australia</description>
+      <description>&lt;p&gt;Price: £8.69&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: South Eastern Australia&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-02-21-mullygrubber-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-02-21-mullygrubber-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Santa Ana</title>
       <link>/wine/2015-05-25-santa-ana/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-05-25-santa-ana/</guid>
-      <description>Price: £ 8.99
-Date Purchased: 28th October 2014
-Supplier: Direct Wine Shipments
-Region: Argentina</description>
+      <description>&lt;p&gt;Price: £ 8.99&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: Argentina&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-05-25-santa-ana-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-05-25-santa-ana-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Usual Suspect</title>
       <link>/wine/2015-02-06-the-usual-suspect/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-02-06-the-usual-suspect/</guid>
-      <description>Price: £7.99
-Date Purchased: 28th October 2014
-Supplier: Direct Wine Shipments
-Region: California</description>
+      <description>&lt;p&gt;Price: £7.99&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: California&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/the-usual-suspect-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/the-usual-suspect-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yabber</title>
       <link>/wine/2015-01-27-yabber/</link>
       <pubDate>Tue, 28 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-01-27-yabber/</guid>
-      <description>Price: £7.49
-Date Purchased: 28th October 2014
-Supplier: Direct Wine Shipments
-Region: South Eastern Australia</description>
+      <description>&lt;p&gt;Price: £7.49&lt;br&gt;&#xA;Date Purchased: 28th October 2014&lt;br&gt;&#xA;Supplier: Direct Wine Shipments&lt;br&gt;&#xA;Region: South Eastern Australia&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/yabber-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/yabber-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Loretto Sangiovese</title>
       <link>/wine/2015-09-26-loretto-sangiovese/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       <guid>/wine/2015-09-26-loretto-sangiovese/</guid>
-      <description>Price: £6.50
-Date Purchased: 24 September 2014
-Supplier: Marks and Spencer
-Region: Italy</description>
+      <description>&lt;p&gt;Price: £6.50&lt;br&gt;&#xA;Date Purchased: 24 September 2014&lt;br&gt;&#xA;Supplier: Marks and Spencer&lt;br&gt;&#xA;Region: Italy&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/wine/2015-09-26-loretto-sangiovese-1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;/images/wine/2015-09-26-loretto-sangiovese-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mushrooms on Flo&#39;s Food and Drink</title>
+    <title>Mushrooms on Flo&#39;s Food and Drink</title>
     <link>/tags/mushrooms/</link>
-    <description>Recent content in mushrooms on Flo&#39;s Food and Drink</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Mushrooms on Flo&#39;s Food and Drink</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Nov 2012 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/mushrooms/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,7 @@
       <link>/recipes/2012-01-01-baked-mushroom-rice/</link>
       <pubDate>Sat, 24 Nov 2012 00:00:00 +0000</pubDate>
       <guid>/recipes/2012-01-01-baked-mushroom-rice/</guid>
-      <description>INGREDIENTS
-200g Shallots 4 cloves Garlic 150g Arborio Rice Sprigs of Thyme 1 litre Chicken or Vegetable Stock Grated Parmesan Salt &amp;amp; Pepper METHOD
-TIPS
-TWIST</description>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;INGREDIENTS&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;200g Shallots&lt;/li&gt;&#xA;&lt;li&gt;4 cloves Garlic&lt;/li&gt;&#xA;&lt;li&gt;150g Arborio Rice&lt;/li&gt;&#xA;&lt;li&gt;Sprigs of Thyme&lt;/li&gt;&#xA;&lt;li&gt;1 litre Chicken or Vegetable Stock&lt;/li&gt;&#xA;&lt;li&gt;Grated Parmesan&lt;/li&gt;&#xA;&lt;li&gt;Salt &amp;amp; Pepper&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;METHOD&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;TIPS&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
